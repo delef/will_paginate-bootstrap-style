@@ -1,4 +1,4 @@
-## [Will Paginate][wp] link renderer styles for [Twitter Bootstrap 4] and [Twitter Bootstrap 5][bs]
+## [Will Paginate][wp] link renderer styles for [Twitter Bootstrap 4][bs4] and [Twitter Bootstrap 5][bs]
 
 ![ex](https://user-images.githubusercontent.com/2103263/117255171-01761800-ae52-11eb-9950-cf9e22772325.png)
 
@@ -31,3 +31,4 @@ For example, to place the navigation section to the far right of the page, use t
 
 [wp]: http://github.com/mislav/will_paginate
 [bs]: http://getbootstrap.com/
+[bs4]: http://getbootstrap.com/docs/4.0/
