@@ -9,7 +9,7 @@ in Twitter's [Bootstrap][bs] toolkit.
 
 Add to your Gemfile:  
 
-    gem 'will_paginate_bootstrap'
+    gem 'will_paginate-bootstrap-style'
 
 ### Usage
 
