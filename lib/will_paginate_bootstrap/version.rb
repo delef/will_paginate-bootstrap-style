@@ -1,3 +1,5 @@
-module Bootstrap::WillPaginate
-  VERSION = '0.2.4'
+module Bootstrap
+  module WillPaginate
+    VERSION = '0.2.4'
+  end
 end
